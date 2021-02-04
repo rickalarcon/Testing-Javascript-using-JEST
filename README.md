@@ -11,7 +11,7 @@ JEST is a open source javascript testing framework released by Facebook
 		"scripts" : {"test" : "jest --coverage"}
 
 
-#To run test
+# To run test
 
 1) create new test files: my_file.test.js
 2) Syntax to test JEST: test("test name",()=>{expect(...).toBe(...)})

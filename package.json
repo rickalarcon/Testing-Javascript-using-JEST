@@ -1,0 +1,23 @@
+{
+  "name": "Testing-Javascript-using-JEST",
+  "version": "1.0.0",
+  "description": "JEST is a open source javascript testing framework released by Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickalarcon/Testing-Javascript-using-JEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickalarcon/Testing-Javascript-using-JEST/issues"
+  },
+  "homepage": "https://github.com/rickalarcon/Testing-Javascript-using-JEST#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
